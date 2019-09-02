@@ -1,0 +1,33 @@
+ul
+{
+  overflow-x:hidden;
+  white-space:nowrap;
+
+
+}
+
+li
+{
+  display:inline;
+}
+
+.logo{
+  float: left;
+  font-size: 37px;
+  padding: 30px;
+
+}
+.list{
+  float: right;
+}
+.clearfix{
+  clear: both;
+}
+.header{
+  background-color: #1b2865;
+  color: aliceblue;
+}
+.home{
+  font-size: 26px;
+  padding-right: 10px;
+}
